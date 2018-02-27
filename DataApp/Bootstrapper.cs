@@ -21,7 +21,7 @@ namespace DataApp
         protected override void ConfigureModuleCatalog()
         {
             var moduleCatalog = (ModuleCatalog)ModuleCatalog;
-            //moduleCatalog.AddModule(typeof(YOUR_MODULE));
+            // moduleCatalog.AddModule(typeof(YOUR_MODULE));
         }
     }
 }
